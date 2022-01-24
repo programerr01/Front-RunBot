@@ -576,7 +576,7 @@ async function preparedAttack(input_token_address, out_token_address, user_walle
 {
 //    try {
         
-        await setFrontBot(address, user_wallet);
+        //await setFrontBot(address, user_wallet);
 
     // } catch (error) {
       
